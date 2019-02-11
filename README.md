@@ -1,6 +1,8 @@
 # SteamGuardGen
 *A Steam Guard code generator, packaged with all necessary dependencies. Requires Node 8.6.*
 
+**THIS PROGRAM IS DEPRECATED, AND MANY OF ITS PACKAGES ARE NOW OUT OF DATE, AND CONTAIN KNOWN SECURITY ISSUES.**
+
 SteamGuardGen is a small node package which allows you to automatically generate a new Steam Guard code every 10 seconds. To configure the program, follow the steps below.
 
 ## Setup
